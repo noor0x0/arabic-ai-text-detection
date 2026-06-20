@@ -5,13 +5,11 @@ This project focuses on detecting whether an Arabic text was written by a human 
 It applies Natural Language Processing techniques, classical machine learning models, and deep learning models to compare performance and identify the best approach for Arabic text classification.
 
 ## Dataset
-The dataset contains Arabic text samples labeled as:
-
+The dataset used in this project is included in the `data/` folder.
 - Human-written text
 - AI-generated text
 
 Dataset summary:
-
 - Total samples: 1,494
 - Human-written samples: 735
 - AI-generated samples: 759
